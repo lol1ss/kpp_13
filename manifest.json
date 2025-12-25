@@ -1,5 +1,9 @@
 {
+<<<<<<< Updated upstream
     "name": "Кав’ярня Ароматна",
+=======
+    "name": "Кав'ярня Ароматна",
+>>>>>>> Stashed changes
     "short_name": "Ароматна",
     "start_url": "/",
     "display": "standalone",
